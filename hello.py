@@ -63,6 +63,7 @@ def hello(name):
 
 
 # //post
+# //post_body_to_model
 @app.route('/submit_item', methods=['POST'])
 def submit():
     # //json_convert

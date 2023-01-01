@@ -15,6 +15,7 @@ snippet list:
 - //get
 - //routing_id
 - //post
+- //post_body_to_model
 - //json_convert
 - //get_header
 - //sql_create
